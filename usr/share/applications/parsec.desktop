@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Parsec
+GenericName=Parsec
+Comment=Parsec game streaming client
+Exec=/usr/bin/parsecd %u
+Icon=/usr/share/icons/hicolor/256x256/apps/parsec.png
+Terminal=true
+Type=Application
+Categories=Network
+Name[de_AT]=parsec
